@@ -5,4 +5,4 @@ In this repository, DCore components can be found as VM appliances for all major
 ## VMWare -> OVA
 ## VirtualBox -> OVA
 ## Parallels Desktop -> PVMZ
-## KVM tar.xz
+## KVM -> tar.xz
